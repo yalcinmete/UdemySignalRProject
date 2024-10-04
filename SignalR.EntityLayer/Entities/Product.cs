@@ -1,4 +1,4 @@
-﻿namespace SignalRApi.DAL.Entity
+﻿namespace SignalR.EntityLayer.Entities
 {
     public class Product
     {
