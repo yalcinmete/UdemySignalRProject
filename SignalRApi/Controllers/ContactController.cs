@@ -37,7 +37,7 @@ namespace SignalRApi.Controllers
                 Location = createContactDto.Location,
                 Mail = createContactDto.Mail,
                 Phone = createContactDto.Phone,
-            };
+            });
             return Ok("İletişim Bilgisi Eklendi");
         }
 
